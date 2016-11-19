@@ -1,0 +1,29 @@
+{
+  "name": "marketing-bullshite",
+  "version": "1.0.0",
+  "description": "A simple NPM module that gives you a smattering of fluffy words that dont mean anything but look totally great on your product webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelbandi/marketing-bullshite.git"
+  },
+  "keywords": [
+    "marketing"
+  ],
+  "author": "Joel Bandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelbandi/marketing-bullshite/issues"
+  },
+  "homepage": "https://github.com/joelbandi/marketing-bullshite#readme",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.1"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
